@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "SpotiApp"
+  "defaultProject": "SpotiApp",
+  "cli": {
+    "analytics": "a4760c23-46db-4150-9f42-a0887526be34"
+  }
 }
